@@ -1,0 +1,7 @@
+[package]
+name = "lambdaworks_exercise"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lambdaworks-math = { git = "https://github.com/lambdaclass/lambdaworks.git" }
